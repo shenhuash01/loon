@@ -1,5 +1,5 @@
 [Script]
-http-request ^https:\/\/fwdt\.shengongshe\.org\/sgsWchartApi\/api\/My\/myIntegral$ script-path=https://raw.githubusercontent.com/shenhuash01/qx/main/sgs.js, timeout=60, tag=sgs
+http-request ^https:\/\/fwdt\.shengongshe\.org\/sgsWchartApi\/api\/My\/myIntegral$ script-path=https://raw.githubusercontent.com/shenhuash01/loon/refs/heads/main/sgs.js, timeout=60, tag=sgs
 
 [MITM]
 hostname = fwdt.shengongshe.org
